@@ -51,10 +51,10 @@ I build robust, automated pipelines that take messy, unstructured data and trans
 I am always open to discussing Data Engineering, advanced Web Automation, Local AI implementations, or international opportunities. Feel free to explore my repositories to see how I solve complex real-world problems.
 
 <div align="left">
-  <a href="linkedin.com/in/davi-costa-6897b5336" target="_blank">
+  <a href="https://www.linkedin.com/in/davi-costa-6897b5336" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="davi9999.dkc@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=davi9999.dkc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
